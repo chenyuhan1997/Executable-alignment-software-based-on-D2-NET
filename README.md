@@ -8,8 +8,13 @@ Meanwhile, please download the model ground model file by yourself, and the mode
 
 
 We use: d2_tf.pth
+```bash
 mkdir models
 wget https://dusmanu.com/files/d2-net/d2_ots.pth -O models/d2_ots.pth
 wget https://dusmanu.com/files/d2-net/d2_tf.pth -O models/d2_tf.pth
 wget https://dusmanu.com/files/d2-net/d2_tf_no_phototourism.pth -O models/d2_tf_no_phototourism.pth
+```
+
+
+All you need to do is run Start.py and you're ready to go!
 
